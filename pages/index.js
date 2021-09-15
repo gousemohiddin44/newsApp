@@ -12,7 +12,7 @@ export default function Home() {
     <Navbar />
 
      <div className={styles.main}>
-        <h1>Welcome to News App(Next Js)</h1>
+        <h1>Welcome to News App</h1>
         <h3>Click on Feed for news articles</h3>
      </div>
    </div>

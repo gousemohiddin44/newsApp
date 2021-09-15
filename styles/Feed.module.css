@@ -40,3 +40,9 @@
     cursor: not-allowed;
     color: rgb(179, 179, 179);
 }
+
+@media (max-width: 768px) {
+    .post {
+        width: 400px;
+    }
+}
