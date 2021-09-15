@@ -41,8 +41,8 @@
     color: rgb(179, 179, 179);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 540px) {
     .post {
-        width: 400px;
+        width: 300px;
     }
 }
